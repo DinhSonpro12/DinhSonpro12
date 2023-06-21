@@ -9,7 +9,7 @@
 
 - ❤️ I love designing and developing websites. 
 
-- 📝 I have a lot experience in creating web app by ReactJS & NodeJS with MongoDB.
+- 📝 I have a lot of experience in creating web applications using ReactJS, NodeJS and MongoDB.
 
 - 🌱 I’m currently learning TypeScript & GraphQL.
 
