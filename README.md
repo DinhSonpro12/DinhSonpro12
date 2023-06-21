@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm DinhSon " src="./assets/gh-readme-header.png" /></a></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhSonpro12&layout=donut)]()
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhSonpro12&repo=Clone_homePage_YouTube_ReactJS&theme=buefy" />
+</a>
+
 <!--
 **DinhSonpro12/DinhSonpro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
