@@ -29,12 +29,16 @@
 <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhSonpro12&layout=donut" /></a>
 
 #### Some of my Repositories
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhSonpro12&repo=Clone_homePage_YouTube_ReactJS&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhSonpro12&repo=Clone_homePage_YouTube_ReactJS&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinhSonpro12&repo=NoteApp&theme=buefy" />
 </a>
+
+
+
 
 
 
